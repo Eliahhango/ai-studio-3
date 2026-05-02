@@ -1,0 +1,5 @@
+{
+  "name": "Codesky Tz Session Generator",
+  "description": "A clean and modern web interface to generate sessions, featuring a link to a Git repository and powered by Codesky Tz.",
+  "requestFramePermissions": []
+}
